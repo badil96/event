@@ -1,0 +1,6 @@
+app:
+    datasource:
+        jdbc-url: jdbc:postgresql://localhost:5432/eventsdb
+        username: postgres
+        password: 12345678
+        pool-size: 30
